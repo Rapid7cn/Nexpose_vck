@@ -11,5 +11,5 @@ Nexpose（InsightVM）本身支持的自定义检测项的目录位置为"/opt/r
 2020-04-18T08:59:43 [INFO] Inserted 2 vulnerabilities
 2020-04-18T08:59:55 [INFO] Load Content command complete
 ## 更新
-本人工作之余会新增发现的（产品本身来更新）检测项。
+本人工作之余会新增发现的（产品本身未更新）检测项。
 诸位如有需要，也可以提交自己的检测项或者需求。
