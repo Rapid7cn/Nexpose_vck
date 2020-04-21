@@ -1,7 +1,7 @@
 # 欢迎使用Nexpose_vck
 本项目本意是为Nexpose/InsightVM产品新增不被其内置的漏洞检测项，以满足广大客户需要，本项目为本人共享，无任何利益驱动。
 ## Nexpose/InsightVM
-Nexpose/InsightVMRapid7的漏洞风险管理产品，因Rapid7是一家很著名的安全公司，甚至其Metasploit产品比公司名本身更为出名。
+Nexpose/InsightVM是Rapid7的漏洞风险管理产品，Rapid7是一家很著名的安全公司，甚至其Metasploit产品比公司名本身更为出名。
 
 Nexpose/InsightVM本身的规则引擎使用的是[jess](https://jessrules.com)，至于如何创建自定义检测项，官方已经有说明，详见<https://kb.help.rapid7.com/docs/nexpose-common-vulnerability-check-examples>。
 ## 使用方法
